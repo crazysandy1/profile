@@ -1,2 +1,2 @@
-# profile
+# Profile
 A INTRODUCTION OF A TECHI GUY
